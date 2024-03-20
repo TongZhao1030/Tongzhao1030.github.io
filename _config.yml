@@ -24,9 +24,9 @@ author:
   avatar           : "photo.png"
   name             : "Tong Zhao"
   # pronouns         : "he/his" # example: "she/her"  
-  bio              : "Third-year undergraduate from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn), major in Computer Science"
+  bio              : "Third-year undergraduate from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn), major in Computer Science."
   location         : "Chengdu, China"
-  employer         : "[UESTC](https://www.uestc.edu.cn)"
+  employer         : [UESTC](https://www.uestc.edu.cn)
   uri              : # URL
   email            : "zhaotonguestc@hotmail.com" 
 
