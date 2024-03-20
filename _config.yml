@@ -21,7 +21,7 @@ repository               : "TongZhao1030/Tongzhao1030.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/photo.jpg"
+  avatar           : "photo.png"
   name             : "Tong Zhao"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "Third-year undergraduate from UESTC"
