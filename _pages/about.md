@@ -21,9 +21,9 @@ Publication
 News
 =====
 - **[Jun.2023]** One project won **Gold Award** for Engineering Innovation and Design Course Project Exhibition.
-- **[July.2023]** One paper on *Information fractal dimension of Random Permutation Set* was accepted by **CSF**.
+- **[July.2023]** One paper on [*Information fractal dimension of Random Permutation Set*[((https://www.sciencedirect.com/science/article/pii/S0960077923007841) was accepted by **CSF**.
 - **[Sep.2023]** I attended the 11th [China Conference on Information Fusion](http://csif.org.cn/).
 - **[Oct.2023]** One project won **First Prize for Best Project** in the New Engineering Education Curriculum of UESTC.
 - **[Nov.2023]** I was invited to be the reviewer of [**Fluctuation and Noise Letters**](https://www.worldscientific.com/worldscinet/fnl).
-- **[Dec.2023]** One paper on *Linearity in Deng entropy* was accepted by **CSF**.
+- **[Dec.2023]** One paper on [*Linearity in Deng entropy*](https://www.sciencedirect.com/science/article/pii/S0960077923012900) was accepted by **CSF**.
 - **[Dec.2023]** My College Student Innovation and Entrepreneurship Program in UESTC was finished as an excellent program.
