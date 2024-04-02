@@ -11,9 +11,11 @@ Welcome to my personal webpage! I'm Tong Zhao, a junior student from [Yingcai Ho
 
 Publication
 ======
-- **Tong Zhao**, Zhen Li, and Yong Deng.``[Information fractal dimension of Random Permutation Set.](https://www.sciencedirect.com/science/article/pii/S0960077923007841)" *Chaos, Solitons & Fractals* 174 (2023): 113883. **(Published, JCR 1, IF = 7.8)** [[PDF]](../files/Selected_Pub_Dimension.pdf) [[Cite]](../files/ref_inf.bib)
+- **Tong Zhao**, Zhen Li, and Yong Deng.``[Information fractal dimension of Random Permutation Set.](https://www.sciencedirect.com/science/article/pii/S0960077923007841)" *Chaos, Solitons & Fractals* 174 (2023): 113883. **(Published, JCR 1, IF = 7.8)** \
+[[PDF]](../files/Selected_Pub_Dimension.pdf) [[Cite]](../files/ref_inf.bib)
 
-- **Tong Zhao**, Zhen Li, and Yong Deng.``[Linearity in Deng entropy.](https://www.sciencedirect.com/science/article/pii/S0960077923012900)" *Chaos, Solitons & Fractals* 178 (2024): 114388. **(Published, JCR 1, IF = 7.8)** [[PDF]](../files/Selected_Pub_Entropy.pdf) [[Cite]](../files/ref_en.bib)
+- **Tong Zhao**, Zhen Li, and Yong Deng.``[Linearity in Deng entropy.](https://www.sciencedirect.com/science/article/pii/S0960077923012900)" *Chaos, Solitons & Fractals* 178 (2024): 114388. **(Published, JCR 1, IF = 7.8)** \
+[[PDF]](../files/Selected_Pub_Entropy.pdf) [[Cite]](../files/ref_en.bib)
 
 
 News
