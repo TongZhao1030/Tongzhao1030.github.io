@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage! I'm Tong Zhao, a junior student from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/) of [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), majoring in Computer Science and Technology. Previously, I joined the Information Fusion and Intelligent Systems Laboratory at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/) as a research assistant, under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?hl=en&user=Zuhod6sAAAAJ). My current research interests lie in trustworthy artificial intelligence, uncertainty quantification, and machine learning. Additionally, I am also intrigued by explainable artificial intelligence.
+Welcome to my personal webpage! I\'m Tong Zhao, a junior student from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/) of [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), majoring in Computer Science and Technology. Previously, I joined the Information Fusion and Intelligent Systems Laboratory at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/) as a research assistant, under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?hl=en&user=Zuhod6sAAAAJ). My current research interests lie in trustworthy artificial intelligence, uncertainty quantification, and machine learning. Additionally, I am also intrigued by explainable artificial intelligence.
 
 Publication
 ======
-- **Tong Zhao**, Zhen Li, and Yong Deng."[Information fractal dimension of Random Permutation Set.](https://www.sciencedirect.com/science/article/pii/S0960077923007841)" *Chaos, Solitons & Fractals* 174 (2023): 113883. **(Published, JCR 1, IF = 7.8)** \
+- **Tong Zhao**, Zhen Li, and Yong Deng.\"[Information fractal dimension of Random Permutation Set.](https://www.sciencedirect.com/science/article/pii/S0960077923007841)\" *Chaos, Solitons & Fractals* 174 (2023): 113883. **(Published, JCR 1, IF = 7.8)** \
 [[PDF]](../files/Selected_Pub_Dimension.pdf) [[Cite]](../files/ref_inf.bib)
 
-- **Tong Zhao**, Zhen Li, and Yong Deng."[Linearity in Deng entropy.](https://www.sciencedirect.com/science/article/pii/S0960077923012900)" *Chaos, Solitons & Fractals* 178 (2024): 114388. **(Published, JCR 1, IF = 7.8)** \
+- **Tong Zhao**, Zhen Li, and Yong Deng.\"[Linearity in Deng entropy.](https://www.sciencedirect.com/science/article/pii/S0960077923012900)\" *Chaos, Solitons & Fractals* 178 (2024): 114388. **(Published, JCR 1, IF = 7.8)** \
 [[PDF]](../files/Selected_Pub_Entropy.pdf) [[Cite]](../files/ref_en.bib)
 
 
