@@ -2,7 +2,7 @@
 title: "Information fractal dimension of Random Permutation Set"
 collection: publications
 permalink: /publication/Information_fractal_dimension_of_Random_Permutation_Set
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Inspired by the R{\'e}nyi information dimension, this paper proposed the information dimension of the permutation mass function in Random permutation Set (RPS), and found the information dimension corresponding to the maximum RPS entropy is 2, which is equivalent to the fractal dimension of Brownian motion and Peano curve.'
 date: 2023-09-01
 venue: 'Chaos, Solitons & Fractals'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0960077923007841'
