@@ -18,3 +18,4 @@ Highlights
 
 What is RPS?
 =====
+![RPS](../images/RPS.jpg "The concept of random permutation set")
