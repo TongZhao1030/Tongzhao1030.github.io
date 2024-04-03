@@ -36,11 +36,10 @@ What is fractal dimension?
 
 Information dimension of RPS
 =====
-<div style="text-align: justify;"><p><a href="https://en.wikipedia.org/wiki/Fractal(https://link.springer.com/article/10.1007/BF02063299)">Information dimension</a> belongs to the family of fractal dimensions, which can be used to describe the behavior of chaotic attractors and holds significant importance in analysis of probability distributions.
-  $$
-  \frac{1}{2}
-  $$
-</p>
+<div style="text-align: justify;"><p><a href="https://en.wikipedia.org/wiki/Fractal(https://link.springer.com/article/10.1007/BF02063299)">Information dimension</a> belongs to the family of fractal dimensions, which can be used to describe the behavior of chaotic attractors and holds significant importance in analysis of probability distributions. Given a probability distribution, its information dimension can be calculated as below:</p>
+<div align=center>
+<img src="../images/d_pd.png" alt="Information dimension of a probability distribution">
+</div>
 
 
 
