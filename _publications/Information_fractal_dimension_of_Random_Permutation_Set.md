@@ -30,7 +30,7 @@ What is fractal dimension?
 <div align=center>
 <img src="../images/S_tr.png" alt="Sierpinski triangle" width="50%" height="50%">
 </div>
-<br style="line-height: 0.5em;">
+<br style="line-height: 0.3em;">
 <div style="text-align: justify;"><p>In our understanding, a straight line is one-dimensional, while a plane is two-dimensional. So what is the dimension of the Sierpinski triangle mentioned above? This seems odd because it obviously has a higher dimension than a line, yet it does not fill the entire plane. Defining its dimension requires introducing fractal dimension, such as <a href="https://en.wikipedia.org/wiki/Hausdorff_dimension">Hausdorff dimension</a> and <a href="https://en.wikipedia.org/wiki/Minkowski%E2%80%93Bouligand_dimension">Minkowski–Bouligand dimension</a>. By calculation, we can find that the dimension of the Sierpinski triangle is ln3/ln2, which falls between one dimension and two dimensions. Pretty intriguing, isn't it?</p>
 </div>
 
