@@ -26,7 +26,9 @@ Given a set <span>&Theta;</span>, we know that its power set considers all combi
 What is fractal dimension?
 =====
 In mathematics, a [fractal](https://en.wikipedia.org/wiki/Fractal) is a geometric shape containing detailed structure at arbitrarily small scales, usually having a fractal dimension strictly exceeding the topological dimension. Many fractals appear similar at various scales, as you can see in the Sierpinski triangle:
+<div style="text-align:center;">
 <img src="../images/S_tr.png" alt="Sierpinski triangle" width="50%" height="50%">
+</div>
 
 In our understanding, a straight line is one-dimensional, while a plane is two-dimensional. So what is the dimension of the Sierpinski triangle mentioned above? This seems odd because it obviously has a higher dimension than a line, yet it does not fill the entire plane. Defining its dimension requires introducing fractal dimension, such as [Hausdorff dimension](https://en.wikipedia.org/wiki/Hausdorff_dimension) and [Minkowski–Bouligand dimension](https://en.wikipedia.org/wiki/Minkowski%E2%80%93Bouligand_dimension). By calculation, we can find that the dimension of the Sierpinski triangle is ln3/ln2, which falls between one dimension and two dimension. Pretty intriguing, isn't it?
 
