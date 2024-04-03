@@ -38,8 +38,10 @@ Information dimension of RPS
 =====
 <div style="text-align: justify;"><p><a href="https://en.wikipedia.org/wiki/Fractal(https://link.springer.com/article/10.1007/BF02063299)">Information dimension</a> belongs to the family of fractal dimensions, which can be used to describe the behavior of chaotic attractors and holds significant importance in analysis of probability distributions. Given a probability distribution, its information dimension can be calculated as below:</p>
 <div align=center>
-<img src="../images/d_pd.jpg" alt="Information dimension of a probability distribution" width="50%" height="50%">
+<img src="../images/d_pd.jpg" alt="Information dimension of a probability distribution" width="60%" height="60%">
 </div>
-
-
-
+<div style="text-align: justify;"><p>
+So here's the question: for a random process, or for a probability mass function (PMF), how do we define its corresponding information dimension? In order to address this issue, we propose the information fractal dimension of RPS, and find the information dimension corresponding to the maximum RPS entropy is 2, which is equivalent to the fractal dimension of <a href="https://en.wikipedia.org/wiki/Brownian_motion">Brownian motion</a> and <a href="https://en.wikipedia.org/wiki/Peano_curve">Peano curve</a>.
+</p>
+For more details, please refer to the [paper](../files/Selected_Pub_Dimension).
+<br style="line-height: 0.5em;">
