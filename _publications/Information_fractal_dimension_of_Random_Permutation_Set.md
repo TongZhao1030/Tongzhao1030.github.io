@@ -23,3 +23,16 @@ Given a set <span>&Theta;</span>, we know that its power set considers all combi
 
 [Random Permutation Set (RPS)](https://www.univagora.ro/jour/index.php/ijccc/article/view/4542) consists of permutation event space (PES) and permutation mass function (PMF). The PES of a certain set <span>&Theta;</span> considers all the permutation of <span>&Theta;</span>. The elements of PES are named as the permutation events. PMF describes the chance of a certain permutation event that would happen. Based on PES and PMF, RPS can be viewed as a permutation-based generalization of random finite set.
 
+What is fractal dimension?
+=====
+In mathematics, a [fractal](https://en.wikipedia.org/wiki/Fractal) is a geometric shape containing detailed structure at arbitrarily small scales, usually having a fractal dimension strictly exceeding the topological dimension. Many fractals appear similar at various scales, as you can see in the Sierpinski triangle:
+![S_tr](../images/S_tr.png "Sierpinski triangle")
+
+In our understanding, a straight line is one-dimensional, while a plane is two-dimensional. So what is the dimension of the Sierpinski triangle mentioned above? This seems odd because it obviously has a higher dimension than a line, yet it does not fill the entire plane. Defining its dimension requires introducing fractal dimension, such as [Hausdorff dimension](https://en.wikipedia.org/wiki/Hausdorff_dimension) and [Minkowski–Bouligand dimension](https://en.wikipedia.org/wiki/Minkowski%E2%80%93Bouligand_dimension). By calculation, we can find that the dimension of the Sierpinski triangle is ln(3)/ln(2), which falls between one dimension and two dimension. Pretty intriguing, isn't it?
+
+Information dimension of RPS
+=====
+
+
+
+
