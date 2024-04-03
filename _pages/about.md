@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage! I\'m Tong Zhao, a junior student from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/) of [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), majoring in Computer Science and Technology. Previously, I joined the Information Fusion and Intelligent Systems Laboratory at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/) as a research assistant, under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?hl=en&user=Zuhod6sAAAAJ). My current research interests lie in trustworthy artificial intelligence, uncertainty quantification, and machine learning. Additionally, I am also intrigued by explainable artificial intelligence.
+Welcome to my personal webpage! I\'m Tong Zhao, a third-year undergraduate student from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/) of [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), majoring in Computer Science and Technology. Previously, I joined the Information Fusion and Intelligent Systems Laboratory at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/) as a research assistant, under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?hl=en&user=Zuhod6sAAAAJ). 
+
+I\'m applying to Master/ Ph.D programs this year. My current research interests lie in trustworthy artificial intelligence, uncertainty quantification, and machine learning. Additionally, I am also intrigued by explainable artificial intelligence.
+
 
 Publication
 ======
