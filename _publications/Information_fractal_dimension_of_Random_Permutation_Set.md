@@ -21,11 +21,12 @@ What is RPS?
 Given a set <span>&Theta;</span>, we know that its power set considers all combinations of elements in <span>&Theta;</span>. How about if we consider all permutations of elements in <span>&Theta;</span>?
 ![RPS](../images/RPS.jpg "The concept of random permutation set")
 
-[Random Permutation Set (RPS)](https://www.univagora.ro/jour/index.php/ijccc/article/view/4542) consists of permutation event space (PES) and permutation mass function (PMF). The PES of a certain set <span>&Theta;</span> considers all the permutation of <span>&Theta;</span>. The elements of PES are named as the permutation events. PMF describes the chance of a certain permutation event that would happen. Based on PES and PMF, RPS can be viewed as a permutation-based generalization of random finite set.
+<div style="text-align: justify;"><p><a href="https://www.univagora.ro/jour/index.php/ijccc/article/view/4542">Random Permutation Set (RPS)</a> consists of permutation event space (PES) and permutation mass function (PMF). The PES of a certain set <span>&Theta;</span> considers all the permutations of <span>&Theta;</span>. The elements of PES are named as the permutation events. PMF describes the chance of a certain permutation event that would happen. Based on PES and PMF, RPS can be viewed as a permutation-based generalization of a random finite set.</p></div>
 
 What is fractal dimension?
 =====
-In mathematics, a [fractal](https://en.wikipedia.org/wiki/Fractal) is a geometric shape containing detailed structure at arbitrarily small scales, usually having a fractal dimension strictly exceeding the topological dimension. Many fractals appear similar at various scales, as you can see in the Sierpinski triangle:
+<div style="text-align: justify;"><p>In mathematics, a <a href="https://en.wikipedia.org/wiki/Fractal">fractal</a> is a geometric shape containing detailed structure at arbitrarily small scales, usually having a fractal dimension strictly exceeding the topological dimension. Many fractals appear similar at various scales, as you can see in the Sierpinski triangle:</p>
+</div>
 <div align=center>
 <img src="../images/S_tr.png" alt="Sierpinski triangle" width="50%" height="50%">
 </div>
