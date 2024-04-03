@@ -19,7 +19,7 @@ Highlights
 What is RPS?
 =====
 Given a set <span>&Theta;</span>, we know that its power set considers all combinations of elements in <span>&Theta;</span>. How about if we consider all permutations of elements in <span>&Theta;</span>?
-![RPS](../images/RPS.jpg "The concept of random permutation set"){: width="50%" height="50%"}
+![RPS](../images/RPS.jpg "The concept of random permutation set")
 
 <div style="text-align: justify;"><p><a href="https://www.univagora.ro/jour/index.php/ijccc/article/view/4542">Random Permutation Set (RPS)</a> consists of permutation event space (PES) and permutation mass function (PMF). The PES of a certain set <span>&Theta;</span> considers all the permutations of <span>&Theta;</span>. The elements of PES are named as the permutation events. PMF describes the chance of a certain permutation event that would happen. Based on PES and PMF, RPS can be viewed as a permutation-based generalization of a random finite set.</p></div>
 
