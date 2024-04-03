@@ -44,5 +44,7 @@ Information dimension of RPS
 So here's the question: for a RPS, or for a PMF, how do we define its corresponding information dimension? In order to address this issue, we propose the information fractal dimension of RPS, and find the information dimension corresponding to the maximum RPS entropy is 2, which is equivalent to the fractal dimension of <a href="https://en.wikipedia.org/wiki/Brownian_motion">Brownian motion</a> and <a href="https://en.wikipedia.org/wiki/Peano_curve">Peano curve</a>.
 </p>
 
-For more details, please refer to the [paper](../files/Selected_Pub_Dimension).\
+For more details, please refer to the [paper](../files/Selected_Pub_Dimension). <br>
 
+
+     
