@@ -1,7 +1,7 @@
 ---
 title: "Micro Control Unit Design and Optimization Based on ARM Architecture"
 collection: teaching
-type: "Advised by [Prof. Jianhao Hu](https://www.ncl.uestc.edu.cn/info/1019/1002.htm) and [Prof. Kaining Han](https://www.ncl.uestc.edu.cn/info/1020/1174.htm)"
+type: "Advised by <a href="https://www.ncl.uestc.edu.cn/info/1019/1002.htm">Prof. Jianhao Hu</a> and <a href="https://www.ncl.uestc.edu.cn/info/1020/1174.htm">Prof. Kaining Han</a>"
 permalink: /teaching/MCU
 venue: "National Key Laboratory of Wireless Communications"
 date: 2023-07-01
