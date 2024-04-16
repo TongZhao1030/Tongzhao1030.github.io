@@ -38,5 +38,5 @@ These two questions have prompted us to delve into and discuss the linearity in 
 
 A specific mass function corresponds to a specific entropy, but a particular entropy can correspond to multiple mass functions. Therefore, it is challenging to deduce mass functions from a particular entropy. However, thanks to the linearity, we demonstrate that it is possible to derive at least one mass function from a linear Deng entropy. Moreover, due to the simplicity of linearity, we can also utilize it to simplify our calculations of entropy. Last but not least, we find the slope is nothing else but the information fractal dimension of mass function.
 
-
+For more details, please refer to the [paper](../files/Selected_Pub_Entropy.pdf).
 
