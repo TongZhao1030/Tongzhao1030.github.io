@@ -23,7 +23,7 @@ To understand [Deng entropy](https://www.sciencedirect.com/science/article/abs/p
 
 Consider the following example: Suppose you have two boxes, A and B, with box A filled with red balls and box B filled with green balls. Now, let's say the probability of picking a ball from box A is 0.4, and from box B is 0.6. We can easily calculate the probabilities of picking red or green balls. However, if we slightly alter the conditions so that box A still contains only red balls, but box B contains both green and red balls, and we are uncertain about the exact number of each color, can we still use probabilities to represent the situation? This is where evidence theory comes into play.
 
-![DS](https://github.com/TongZhao1030/Tongzhao1030.github.io/assets/164134563/7f62a908-0f05-43b0-8658-75121a8d0a4f "D-S evidence theory")
+![DS](https://github.com/TongZhao1030/Tongzhao1030.github.io/assets/164134563/7f62a908-0f05-43b0-8658-75121a8d0a4f "D-S Evidence Theory")
 
 The linearity in Deng entropy
 =====
