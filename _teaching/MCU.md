@@ -12,4 +12,4 @@ Our design objective is to develop an MCU based on the ARM architecture capable 
 
 Ultimately, we successfully completed testing of basic MCU instructions, simulation of convolution operations, and on-board testing, with all results being accurate. On-board testing indicated that, at a frequency of 49MHz, we completed one convolution operation in 393 clock cycles, achieving an operational speed of 148,000 convolutions per second.
 
-For code and details, please see this [GitHub repository](https://github.com/TongZhao1030/MCU).
+For code and more details, please see this [GitHub repository](https://github.com/TongZhao1030/MCU).
