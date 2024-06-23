@@ -19,7 +19,7 @@ Highlights
 
 Deng entropy - a generalization of Shannon entropy
 =====
-To understand [Deng entropy](https://www.sciencedirect.com/science/article/abs/pii/S0960077916302363), it is necessary to first understand evidence theory. Evidence theory, also known as Dempster-Shafer evidence theory, is an generalization of probability theory. In contrast to probability theory, which assigns probabilities to singleton subsets of the sample space, evidence theory assigns probabilities to subsets containing multiple elements, namely the power set of the sample space.
+To understand [Deng entropy](https://www.sciencedirect.com/science/article/abs/pii/S0960077916302363), it is necessary to first understand evidence theory. Evidence theory, also known as Dempster-Shafer evidence theory, is a generalization of probability theory. In contrast to probability theory, which assigns probabilities to singleton subsets of the sample space, evidence theory assigns probabilities to subsets containing multiple elements, namely the power set of the sample space.
 
 Consider the following example: Suppose you have two boxes, A and B, with box A filled with red balls and box B filled with green balls. Now, let's say the probability of picking a ball from box A is 0.4, and from box B is 0.6. We can easily calculate the probabilities of picking red or green balls. However, if we slightly alter the conditions so that box A still contains only red balls, but box B contains both green and red balls, and we are uncertain about the exact number of each color, can we still use probabilities to represent the situation? This is where evidence theory comes into play.
 
