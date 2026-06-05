@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blog &amp; Notes · Tong Zhao</title>
+  <meta name="description" content="Blog posts and study notes by Tong Zhao.">
+  <link rel="icon" type="image/png" href="images/logos/westlake.png">
+  <link rel="apple-touch-icon" href="images/logos/westlake.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css?v=3">
+  <script>  /* set theme before paint to avoid flash */
+    (function(){var t=localStorage.getItem('theme')||((window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light');document.documentElement.setAttribute('data-theme',t);})();
+  </script>
+</head>
+<body>
+
+  <!-- ============ Top navigation ============ -->
+  <nav class="topnav">
+    <div class="topnav-inner">
+      <a class="nav-name" href="index.html#top">Tong Zhao</a>
+      <div class="nav-links">
+        <a href="index.html#about">About</a>
+        <a href="index.html#news">News</a>
+        <a href="index.html#publications">Publications</a>
+        <a href="index.html#education">Education</a>
+        <a href="index.html#service">Service</a>
+        <a href="blog.html" aria-current="page" style="color:var(--accent)">Blog</a>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle light/dark theme" title="Toggle theme">🌙</button>
+      </div>
+    </div>
+  </nav>
+
+  <div class="wrap">
+
+    <section style="margin-top: 58px;">
+      <h2 class="section-title"><span class="ico">📔</span> Blog &amp; Notes</h2>
+      <p>
+        This is where I'll be posting blog articles and study notes — on diffusion models, efficient
+        sampling, papers I'm reading, and bits and pieces I pick up along the way. I'm just getting
+        this section started.
+      </p>
+
+      <div style="text-align:center; padding:64px 20px 48px; color:var(--faint);">
+        <div style="font-size:2.8rem; line-height:1; margin-bottom:14px;">🚧</div>
+        <div style="font-size:1.1rem; font-weight:600; color:var(--muted);">Coming soon</div>
+        <div style="font-size:.92rem; margin-top:6px;">No posts yet — check back later!</div>
+      </div>
+
+      <p style="font-size:.95rem;"><a href="index.html#top">← Back to home</a></p>
+    </section>
+
+    <!-- ============ Footer ============ -->
+    <footer>
+      <span>© 2026 Tong Zhao</span>
+      <span>Last updated June 2026 · <a href="mailto:zhaotong68@westlake.edu.cn">zhaotong68@westlake.edu.cn</a></span>
+    </footer>
+
+  </div>
+
+  <script>
+    (function(){
+      var root = document.documentElement, btn = document.getElementById('theme-toggle');
+      function paint(t){ root.setAttribute('data-theme', t); if (btn) btn.textContent = (t === 'dark' ? '☀️' : '🌙'); }
+      paint(root.getAttribute('data-theme') || 'light');
+      if (btn) btn.addEventListener('click', function(){
+        var t = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        localStorage.setItem('theme', t); paint(t);
+      });
+    })();
+  </script>
+</body>
+</html>
